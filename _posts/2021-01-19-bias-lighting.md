@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Bias Lighting, a love story.
+title: Bias Lighting, light up your life!
 ---
-
-![beach-bias.png]({{ site.baseurl }}/images/beach-bias.png)
 
 Haven't got enough colour in your life? Enjoy flash gimmicks as much as I do?
 Maybe you're into gaming and need more immersion, if you answered yes to any of
 these you're in for a treat (even if you didn't it's going to be great).
+
+![beach-bias.png]({{ site.baseurl }}/images/beach-bias.png)
 
 ## What is bias lighting?
 
