@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bias Lighting, light up your life!
+title: Light up your life!
 ---
 
 Haven't got enough colour in your life? Enjoy flash gimmicks as much as I do?
