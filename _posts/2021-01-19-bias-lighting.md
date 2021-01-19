@@ -99,6 +99,6 @@ available from the same [Github Account](https://github.com/hyperion-project).
 ## What are we going to do?
 
 The setup process is divided into 2 parts, hardware and software setup. For the 
-hardware setup we will be wiring the Pi up with the LEDs, power supply & HDMI 
+hardware setup we will be wiring the rpi up with the LEDs, power supply & HDMI 
 capture card. The software setup will consist of setting up the boot drive for
-the Pi & configuring hyperion.
+the rpi & configuring hyperion.
