@@ -4,15 +4,19 @@ title: Bias Lighting, light up your life!
 ---
 
 Haven't got enough colour in your life? Enjoy flash gimmicks as much as I do?
-Maybe you're into gaming and need more immersion, if you answered yes to any of
-these you're in for a treat (even if you didn't it's going to be great).
+Maybe you're into gaming and need more immersion.
 
 ![beach-bias.png]({{ site.baseurl }}/images/beach-bias.png)
+
+If you answered yes to any of these you're in for a treat (even if you didn't 
+it's going to be great).
 
 ## What is bias lighting?
 
 By definition Bias Lighting is a weak light source on the backside of a 
-tv or monitor that illuminates the wall or suface behind the display.
+tv or monitor that illuminates the wall or suface behind the display. 
+Some systems offer basic features whilst others will react to the border pixels
+on your display.
 
 Some would argue that bias lighting reduces the contrast between the display &
 the surrounding environment.
