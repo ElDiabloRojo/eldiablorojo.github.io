@@ -43,6 +43,8 @@ trying to chew the insulation off of the cables.
 
 For this project you will need the following hardware:
 
+//[TODO: include links and suggestions]
+
 * [rpi 3b+](#Which Pi?)
 * [hdmi capture card](#Capture Card)
 * micro sd card
@@ -81,7 +83,7 @@ wrong. Don't worry; we will cover how to be accurate with this item later on.
 
 The pièce de résistance, the LED strip. Specifically from the WS281x family,
 these LEDs are individually addressable; this feature is vital to make our
-fancy effects.
+fancy effects. //[TODO: discuss led per cm]
 
 ## The Software
 
