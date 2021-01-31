@@ -48,11 +48,11 @@ For this project you will need the following hardware:
 
 //[TODO: include links and suggestions]
 
-* [rpi 3b+](#Which Pi?)
-* [hdmi capture card](#Capture Card)
+* [rpi 3b+](#which-pi)
+* [hdmi capture card](#capture-card)
 * micro sd card
-* [5v power supply](#PSU)
-* [RGB LED strip (WS2812B)](#LED Strip)
+* [5v power supply](#psu)
+* [RGB LED strip (WS2812B)](#led-strip)
 * micro usb cable
 * a single jumper cable
 
