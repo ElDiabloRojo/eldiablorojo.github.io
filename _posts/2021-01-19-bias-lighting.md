@@ -181,10 +181,10 @@ Again at root level in your boot drive add a file called 'wpa_supplicant.conf'
 and include this code inside it:
 
 ~~~bash
-some code here
+TODO: wpa_supplicant example
 ~~~
 
-Taking these steps should save us some time getting started & is known as 
+Taking these steps should save us some time getting started and is known as 
 starting the RPI in headless mode.
 
 ### Power On RPI
